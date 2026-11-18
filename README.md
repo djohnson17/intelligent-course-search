@@ -79,10 +79,10 @@ This project began as a university software development assignment focused on bu
 ## Screenshots
 
 ### Course Finder Interface
-![Course Finder](screenshots/course_finder_home.png)
+![Course Finder](demos/course_finder_home.png)
 
 ### Subject Search
-![Search Results](screenshots/course_finder3.png)
+![Search Results](demos/course_finder3.png)
 
 ### Instructor Search
-![Instructor Search](screenshots/course_finder2.png)
+![Instructor Search](demos/course_finder2.png)
