@@ -76,3 +76,13 @@ course-finder-reconstructed/
 
 This project began as a university software development assignment focused on building an intelligent course search system. The original implementation explored vector databases, embeddings, and large language models. This reconstructed version restores the interactive application with a lightweight local search backend.
 
+## Screenshots
+
+### Course Finder Interface
+![Course Finder](screenshots/course_finder_home.png)
+
+### Subject Search
+![Search Results](screenshots/course_finder3.png)
+
+### Instructor Search
+![Instructor Search](screenshots/course_finder2.png)
