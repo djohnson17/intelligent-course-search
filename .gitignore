@@ -1,0 +1,28 @@
+# Environment variables and secrets
+*.backup
+*.bak
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Go build outputs
+*.exe
+*.test
+*.out
+/bin/
+/dist/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local databases and generated data
+chroma-data/
+chroma/
+*.db
